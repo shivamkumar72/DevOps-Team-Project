@@ -1,1 +1,1 @@
-# DevOps-Team-Project
+# DevOps Team Project
